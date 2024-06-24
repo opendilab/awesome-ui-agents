@@ -32,7 +32,7 @@ In general, we follow the "fork-and-pull" Git workflow.
     ```
     * There are some standards of commit message.
     * `Template:` add/feature/polish(committer_name or project_name): commit message
-    * `For example:` add(jrn): add one paper about VE on #neurips2021
+    * `For example:` add(jrn): add one paper about UI-Agent
 
 
 4. Push your work back up to your fork.

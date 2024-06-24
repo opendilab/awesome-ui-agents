@@ -1,6 +1,6 @@
 # Awesome UI Agent
 
-This is a collection of research papers for **UI Agent**.
+This is a collection of research papers for **UI Agent**, which includes models, tools, and datasets.
 And the repository will be continuously updated to track the frontier of UI Agent or related fields.
 
 Welcome to follow and star!
@@ -22,7 +22,15 @@ Welcome to follow and star!
 
 UI Agent aims to build a generalist agent that can interact with various user interfaces (UIs) in different environments, such as mobile apps, web pages, and PC applications. The agent can understand the UIs through vision-language models and interact with them to complete tasks. The agent can be applied to various scenarios, such as mobile device operation, web browsing, and game playing. The agent can be trained in a simulated environment or with real-world data. The agent can be evaluated in terms of task completion rate, efficiency, and generalization ability.
 
+<p align="center">
+  <img src="assets/mobile.png" alt="Image Description 1" width="80%" height="auto" style="margin: 0 1%;">
+</p>
+
 The research on UI Agent is still in its early stage, and there are many challenges to be addressed, such as the scalability of the agent, the robustness of the agent, and the interpretability of the agent. The research on UI Agent is interdisciplinary, involving computer vision, natural language processing, reinforcement learning, human-computer interaction, and software engineering. The research on UI Agent has the potential to revolutionize the way we interact with computers and improve the efficiency and usability of computer systems.
+
+<p align="center">
+  <img src="assets/pc.png" alt="Image Description 1" width="80%" height="auto" style="margin: 0 1%;">
+</p>
 
 ## Papers
 
@@ -38,6 +46,8 @@ format:
 ```
 
 ### Models
+
+#### 2024
 
 - [ScreenAI: A Vision-Language Model for UI and Infographics Understanding](https://arxiv.org/abs/2402.04615)
     - Gilles Baechler and Srinivas Sunkara and Maria Wang and Fedir Zubach and Hassan Mansoor and Vincent Etter and Victor Cărbune and Jason Lin and Jindong Chen and Abhanshu Sharma
@@ -55,12 +65,6 @@ format:
     - Key: Vision-Language Model, Android, Chain-of-Action-Thought
     - 2024
     - [code](https://github.com/IMNearth/CoAT)
-
-- [CogAgent: A Visual Language Model for GUI Agents](https://arxiv.org/html/2312.08914v1)
-    - Wenyi Hong and Weihan Wang and Qingsong Lv and Jiazheng Xu and Wenmeng Yu and Junhui Ji and Yan Wang and Zihan Wang and Yuxuan Zhang and Juanzi Li and Bin Xu and Yuxiao Dong and Ming Ding and Jie Tang
-    - Key: Vision-Language Model, PC, Android, screenshots
-    - 2023
-    - [code](https://github.com/THUDM/CogVLM)
 
 - [AppAgent: Multimodal Agents as Smartphone Users](https://arxiv.org/abs/2312.13771)
     - Chi Zhang and Zhao Yang and Jiaxuan Liu and Yucheng Han and Xin Chen and Zebiao Huang and Bin Fu and Gang Yu
@@ -103,25 +107,55 @@ format:
     - Key: Vision-Language Model, Android, IOS
     - 2024
 
-- [Octopus: Embodied Vision-Language Programmer from Environmental Feedback](https://arxiv.org/abs/2310.08588)
-    - Jingkang Yang and Yuhao Dong and Shuai Liu and Bo Li and Ziyue Wang and Chencheng Jiang and Haoran Tan and Jiamu Kang and Yuanhan Zhang and Kaiyang Zhou and Ziwei Liu
-    - Key: Vision-Language Model, Android, IOS
-    - 2023
-    - [code](https://github.com/dongyh20/Octopus)
-
 - [Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study](https://arxiv.org/html/2403.03186v1)
     - Weihao Tan and Ziluo Ding and Wentao Zhang and Boyu Li and Bohan Zhou and Junpeng Yue and Haochong Xia and Jiechuan Jiang and Longtao Zheng and Xinrun Xu and Yifei Bi and Pengjie Gu and Xinrun Wang and Börje F. Karlsson and Bo An and Zongqing Lu
     - Key: Vision-Language Model, PC, Game
     - 2024
     - [code](https://github.com/BAAI-Agents/Cradle)
 
-### Tools
+#### 2023
 
-- [AndroidEnv: A Reinforcement Learning Platform for Android](https://arxiv.org/abs/2105.13231)
-    - Daniel Toyama and Philippe Hamel and Anita Gergely and Gheorghe Comanici and Amelia Glaese and Zafarali Ahmed and Tyler Jackson and Shibl Mourad and Doina Precup
-    - Key: Android, Reinforcement Learning, Simulator
-    - 2021
-    - [code](https://github.com/google-deepmind/android_env)
+- [CogAgent: A Visual Language Model for GUI Agents](https://arxiv.org/html/2312.08914v1)
+    - Wenyi Hong and Weihan Wang and Qingsong Lv and Jiazheng Xu and Wenmeng Yu and Junhui Ji and Yan Wang and Zihan Wang and Yuxuan Zhang and Juanzi Li and Bin Xu and Yuxiao Dong and Ming Ding and Jie Tang
+    - Key: Vision-Language Model, PC, Android, screenshots
+    - 2023
+    - [code](https://github.com/THUDM/CogVLM)
+
+- [Octopus: Embodied Vision-Language Programmer from Environmental Feedback](https://arxiv.org/abs/2310.08588)
+    - Jingkang Yang and Yuhao Dong and Shuai Liu and Bo Li and Ziyue Wang and Chencheng Jiang and Haoran Tan and Jiamu Kang and Yuanhan Zhang and Kaiyang Zhou and Ziwei Liu
+    - Key: Vision-Language Model, Android, IOS
+    - 2023
+    - [code](https://github.com/dongyh20/Octopus)
+
+- [You Only Look at Screens: Multimodal Chain-of-Action Agents](https://arxiv.org/abs/2309.11436)
+    - Zhuosheng Zhang and Aston Zhang
+    - Key: Vision-Language Model, Android, Chain-of-Action-Thought
+    - 2023
+    - [code](https://github.com/cooelf/Auto-GUI)
+
+- [LASER: LLM Agent with State-Space Exploration for Web Navigation](https://arxiv.org/abs/2309.08172)
+    - Kaixin Ma and Hongming Zhang and Hongwei Wang and Xiaoman Pan and Wenhao Yu and Dong Yu
+    - Key: Vision-Language Model, Web, State-Space Exploration
+    - 2023
+    - [code](https://github.com/Mayer123/LASER)
+
+- [A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis](https://arxiv.org/abs/2307.12856)
+    - Izzeddin Gur and Hiroki Furuta and Austin Huang and Mustafa Safdari and Yutaka Matsuo and Douglas Eck and Aleksandra Faust
+    - Key: Vision-Language Model, Web, Planning, Program Synthesis
+    - 2023
+
+- [Augmenting Autotelic Agents with Large Language Models](https://arxiv.org/abs/2305.12487)
+    - Cédric Colas and Laetitia Teodorescu and Pierre-Yves Oudeyer and Xingdi Yuan and Marc-Alexandre Côté
+    - Key: Language Model
+    - 2023
+
+- [Language Models can Solve Computer Tasks](https://arxiv.org/abs/2303.17491)
+    - Geunwoo Kim and Pierre Baldi and Stephen McAleer
+    - Key: Language Model
+    - 2023
+    - [code](https://github.com/posgnu/rci-agent)
+
+### Tools
 
 - [LlamaTouch: A Faithful and Scalable Testbed for Mobile UI Automation Task Evaluation](https://arxiv.org/abs/2404.16054)
     - Li Zhang and Shihe Wang and Xianqing Jia and Zhihan Zheng and Yunhe Yan and Longxi Gao and Yuanchun Li and Mengwei Xu
@@ -129,12 +163,31 @@ format:
     - 2024
     - [code](https://github.com/llamatouch/llamatouch)
 
+- [WebArena: A Realistic Web Environment for Building Autonomous Agents](https://arxiv.org/abs/2307.13854)
+    - Shuyan Zhou and Frank F. Xu and Hao Zhu and Xuhui Zhou and Robert Lo and Abishek Sridhar and Xianyi Cheng and Tianyue Ou and Yonatan Bisk and Daniel Fried and Uri Alon and Graham Neubig
+    - Key: Web, Simulator
+    - 2023
+    - [code](https://github.com/web-arena-x/webarena)
+
+- [Mobile-Env: Building Qualified Evaluation Benchmarks for LLM-GUI Interaction](https://arxiv.org/abs/2305.08144)
+    - Danyang Zhang and Zhennan Shen and Rui Xie and Situo Zhang and Tianbao Xie and Zihan Zhao and Siyuan Chen and Lu Chen and Hongshen Xu and Ruisheng Cao and Kai Yu
+    - Key: Android, Simulator
+    - 2023
+    - [code](https://github.com/X-LANCE/Mobile-Env)
+
+- [AndroidEnv: A Reinforcement Learning Platform for Android](https://arxiv.org/abs/2105.13231)
+    - Daniel Toyama and Philippe Hamel and Anita Gergely and Gheorghe Comanici and Amelia Glaese and Zafarali Ahmed and Tyler Jackson and Shibl Mourad and Doina Precup
+    - Key: Android, Reinforcement Learning, Simulator
+    - 2021
+    - [code](https://github.com/google-deepmind/android_env)
+
 ### Datasets
 
-- [Rico: A Mobile App Dataset for Building Data-Driven Design Applications](https://dl.acm.org/doi/10.1145/3126594.3126651)
-    - Deka, Biplab and Huang, Zifeng and Franzen, Chad and Hibschman, Joshua and Afergan, Daniel and Li, Yang and Nichols, Jeffrey and Kumar, Ranjitha
-    - Key: mobile app, datasets
-    - 2017
+- [Android in the Zoo: Chain-of-Action-Thought for GUI Agents](https://arxiv.org/abs/2403.02713)
+    - Jiwen Zhang and Jihao Wu and Yihua Teng and Minghui Liao and Nuo Xu and Xiao Xiao and Zhongyu Wei and Duyu Tang
+    - Key: Vision-Language Model, Android, Chain-of-Action-Thought
+    - 2024
+    - [code](https://github.com/IMNearth/CoAT)
 
 - [Android in the Wild: A Large-Scale Dataset for Android Device Control](https://arxiv.org/abs/2307.10088)
     - Christopher Rawles and Alice Li and Daniel Rodriguez and Oriana Riva and Timothy Lillicrap
@@ -147,17 +200,21 @@ format:
     - 2023
     - [code](https://github.com/OSU-NLP-Group/Mind2Web)
 
-- [Android in the Zoo: Chain-of-Action-Thought for GUI Agents](https://arxiv.org/abs/2403.02713)
-    - Jiwen Zhang and Jihao Wu and Yihua Teng and Minghui Liao and Nuo Xu and Xiao Xiao and Zhongyu Wei and Duyu Tang
-    - Key: Vision-Language Model, Android, Chain-of-Action-Thought
-    - 2024
-    - [code](https://github.com/IMNearth/CoAT)
+- [WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents](https://arxiv.org/abs/2207.01206)
+    - Shunyu Yao and Howard Chen and John Yang and Karthik Narasimhan
+    - Key: Web, datasets
+    - 2022
+    - [code](https://github.com/princeton-nlp/WebShop)
+
+- [Rico: A Mobile App Dataset for Building Data-Driven Design Applications](https://dl.acm.org/doi/10.1145/3126594.3126651)
+    - Deka, Biplab and Huang, Zifeng and Franzen, Chad and Hibschman, Joshua and Afergan, Daniel and Li, Yang and Nichols, Jeffrey and Kumar, Ranjitha
+    - Key: mobile app, datasets
+    - 2017
 
 ## Related Repositories
 
 - [awesome-llm-powered-agent](https://github.com/hyp1231/awesome-llm-powered-agent)
 - [Awesome-LLM-based-Web-Agent-and-Tools](https://github.com/albzni/Awesome-LLM-based-Web-Agent-and-Tools)
-
 
 ## Contributing
 
@@ -166,5 +223,3 @@ Our purpose is to make this repo even better. If you are interested in contribut
 ## License
 
 This repository is released under the Apache 2.0 license.
-
-
