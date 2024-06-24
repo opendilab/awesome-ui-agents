@@ -165,6 +165,6 @@ Our purpose is to make this repo even better. If you are interested in contribut
 
 ## License
 
-Awesome Diffusion Model in RL is released under the Apache 2.0 license.
+This repository is released under the Apache 2.0 license.
 
 
