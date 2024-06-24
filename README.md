@@ -23,13 +23,13 @@ Welcome to follow and star!
 UI Agent aims to build a generalist agent that can interact with various user interfaces (UIs) in different environments, such as mobile apps, web pages, and PC applications. The agent can understand the UIs through vision-language models and interact with them to complete tasks. The agent can be applied to various scenarios, such as mobile device operation, web browsing, and game playing. The agent can be trained in a simulated environment or with real-world data. The agent can be evaluated in terms of task completion rate, efficiency, and generalization ability.
 
 <p align="center">
-  <img src="assets/mobile.png" alt="Image Description 1" width="80%" height="auto" style="margin: 0 1%;">
+  <img src="assets/mobile.jpg" alt="Image Description 1" width="80%" height="auto" style="margin: 0 1%;">
 </p>
 
 The research on UI Agent is still in its early stage, and there are many challenges to be addressed, such as the scalability of the agent, the robustness of the agent, and the interpretability of the agent. The research on UI Agent is interdisciplinary, involving computer vision, natural language processing, reinforcement learning, human-computer interaction, and software engineering. The research on UI Agent has the potential to revolutionize the way we interact with computers and improve the efficiency and usability of computer systems.
 
 <p align="center">
-  <img src="assets/pc.png" alt="Image Description 1" width="80%" height="auto" style="margin: 0 1%;">
+  <img src="assets/pc.jpg" alt="Image Description 1" width="80%" height="auto" style="margin: 0 1%;">
 </p>
 
 ## Papers
