@@ -1,5 +1,14 @@
 # Awesome UI Agent
 
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fopendilab)](https://twitter.com/opendilab)    
+[![GitHub stars](https://img.shields.io/github/stars/opendilab/awesome-ui-agents)](https://github.com/opendilab/awesome-ui-agents/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/opendilab/awesome-ui-agents)](https://github.com/opendilab/awesome-ui-agents/network)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/opendilab/awesome-ui-agents)
+[![GitHub issues](https://img.shields.io/github/issues/opendilab/awesome-ui-agents)](https://github.com/opendilab/awesome-ui-agents/issues)
+[![GitHub pulls](https://img.shields.io/github/issues-pr/opendilab/awesome-ui-agents)](https://github.com/opendilab/awesome-ui-agents/pulls)
+[![Contributors](https://img.shields.io/github/contributors/opendilab/awesome-ui-agents)](https://github.com/opendilab/awesome-ui-agents/graphs/contributors)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 This is a collection of research papers for **UI Agent**, which includes models, tools, and datasets.
 And the repository will be continuously updated to track the frontier of UI Agent or related fields.
 
