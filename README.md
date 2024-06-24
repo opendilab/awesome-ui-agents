@@ -1,5 +1,7 @@
 # Awesome UI Agent
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=opendilab.awesome-ui-agents&left_text=Visitors)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fopendilab)](https://twitter.com/opendilab)    
 [![GitHub stars](https://img.shields.io/github/stars/opendilab/awesome-ui-agents)](https://github.com/opendilab/awesome-ui-agents/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/opendilab/awesome-ui-agents)](https://github.com/opendilab/awesome-ui-agents/network)
