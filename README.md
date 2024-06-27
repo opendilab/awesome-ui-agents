@@ -60,6 +60,12 @@ format:
 
 #### 2024
 
+- [DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning](https://arxiv.org/abs/2406.11896)
+    - Hao Bai and Yifei Zhou and Mert Cemri and Jiayi Pan and Alane Suhr and Sergey Levine and Aviral Kumar
+    - Key: Vision-Language Model, Android, Reinforcement Learning
+    - 2024
+    - [code](https://github.com/DigiRL-agent/digirl)
+
 - [ScreenAI: A Vision-Language Model for UI and Infographics Understanding](https://arxiv.org/abs/2402.04615)
     - Gilles Baechler and Srinivas Sunkara and Maria Wang and Fedir Zubach and Hassan Mansoor and Vincent Etter and Victor Cărbune and Jason Lin and Jindong Chen and Abhanshu Sharma
     - Key: Vision-Language Model, Mobile, Infographics
