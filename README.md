@@ -60,6 +60,30 @@ format:
 
 #### 2024
 
+- [CoCo-Agent: A Comprehensive Cognitive MLLM Agent for Smartphone GUI Automation](https://arxiv.org/abs/2402.11941)
+    - Xinbei Ma and Zhuosheng Zhang and Hai Zhao
+    - Key: Vision-Language Model, Phone
+    - 2024
+    - [code](https://github.com/xbmxb/CoCo-Agent)
+
+- [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/abs/2401.10935)
+    - Kanzhi Cheng and Qiushi Sun and Yougang Chu and Fangzhi Xu and Yantao Li and Jianbing Zhang and Zhiyong Wu
+    - Key: Vision-Language Model, PC
+    - 2024
+    - [code](https://github.com/njucckevin/SeeClick)
+
+- [Intention-inInteraction (IN3): Tell Me More! Towards Implicit User Intention Understanding of Language Model Driven Agents](https://arxiv.org/abs/2402.09205)
+    - Cheng Qian and Bingxiang He and Zhong Zhuang and Jia Deng and Yujia Qin and Xin Cong and Zhong Zhang and Jie Zhou and Yankai Lin and Zhiyuan Liu and Maosong Sun
+    - Key: Language Model, User Intention
+    - 2024
+    - [code](https://github.com/OpenBMB/Tell_Me_More)
+
+- [LATS: Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models](https://arxiv.org/abs/2406.11896)
+    - Andy Zhou and Kai Yan and Michal Shlapentokh-Rothman and Haohan Wang and Yu-Xiong Wang
+    - Key: Tree Search, Language Model
+    - 2024
+    - [code](https://github.com/lapisrocks/LanguageAgentTreeSearch)
+
 - [DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning](https://arxiv.org/abs/2406.11896)
     - Hao Bai and Yifei Zhou and Mert Cemri and Jiayi Pan and Alane Suhr and Sergey Levine and Aviral Kumar
     - Key: Vision-Language Model, Android, Reinforcement Learning
@@ -174,6 +198,12 @@ format:
 
 ### Tools
 
+- [LEGENT: An Open Platform for Embodied Agentb Agents on Large Language Models](https://aclanthology.org/2024.acl-demos.8/)
+    - Iat Long Iong and Xiao Liu and Yuxuan Chen and Hanyu Lai and Shuntian Yao and Pengbo Shen and Hao Yu and Yuxiao Dong and Jie Tang
+    - Key: Webpage, deployment
+    - 2024
+    - [code](https://github.com/boxworld18/OpenWebAgent)
+
 - [LlamaTouch: A Faithful and Scalable Testbed for Mobile UI Automation Task Evaluation](https://arxiv.org/abs/2404.16054)
     - Li Zhang and Shihe Wang and Xianqing Jia and Zhihan Zheng and Yunhe Yan and Longxi Gao and Yuanchun Li and Mengwei Xu
     - Key: Mobile UI, Simulator
@@ -199,6 +229,30 @@ format:
     - [code](https://github.com/google-deepmind/android_env)
 
 ### Datasets
+
+- [VillagerBench/VillagerAgent: A Graph-Based Multi-Agent Framework for Coordinating Complex Task Dependencies in Minecraft](https://arxiv.org/abs/2406.05720)
+    - Yubo Dong and Xukun Zhu and Zhengzhe Pan and Linchao Zhu and Yi Yang
+    - Key: Vision-Language Model, Game
+    - 2024
+    - [code](https://github.com/cnsdqd-dyb/VillagerAgent)
+
+- [CToolEval: A Chinese Benchmark for LLM-Powered Agent Evaluation in Real-World API Interactions](https://aclanthology.org/2024.findings-acl.928/)
+    - Guo, Zishan and Huang, Yufei and Xiong, Deyi
+    - Key: Vision-Language Model, Phone
+    - 2024
+    - [code](https://github.com/tjunlp-lab/CToolEval)
+
+- [Multi-Turn Mind2Web: On the Multi-turn Instruction Following for Conversational Web Agents](https://arxiv.org/pdf/2402.15057)
+    - Yang Deng and Xuan Zhang and Wenxuan Zhang and Yifei Yuan and See-Kiong Ng and Tat-Seng Chua
+    - Key: Vision-Language Model, Web Tasks
+    - 2024
+    - [code](https://github.com/magicgh/self-map)
+
+- [VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks](https://arxiv.org/abs/2401.13649)
+    - Jing Yu Koh and Robert Lo and Lawrence Jang and Vikram Duvvur and Ming Chong Lim and Po-Yu Huang and Graham Neubig and Shuyan Zhou and Ruslan Salakhutdinov and Daniel Fried
+    - Key: Vision-Language Model, Web Tasks
+    - 2024
+    - [code](https://github.com/web-arena-x/visualwebarena)
 
 - [Android in the Zoo: Chain-of-Action-Thought for GUI Agents](https://arxiv.org/abs/2403.02713)
     - Jiwen Zhang and Jihao Wu and Yihua Teng and Minghui Liao and Nuo Xu and Xiao Xiao and Zhongyu Wei and Duyu Tang
