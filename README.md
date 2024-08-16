@@ -286,6 +286,7 @@ format:
 
 - [awesome-llm-powered-agent](https://github.com/hyp1231/awesome-llm-powered-agent)
 - [Awesome-LLM-based-Web-Agent-and-Tools](https://github.com/albzni/Awesome-LLM-based-Web-Agent-and-Tools)
+- [Awesome-GUI-Agent](https://github.com/showlab/Awesome-GUI-Agent)
 
 ## Contributing
 
