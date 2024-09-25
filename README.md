@@ -60,6 +60,11 @@ format:
 
 #### 2024
 
+- [Apple Intelligence Foundation Language Models](https://arxiv.org/pdf/2407.21075)
+    - Apple
+    - Key: Vision-Language Model, Private Cloud Compute
+    - 2024
+
 - [CoCo-Agent: A Comprehensive Cognitive MLLM Agent for Smartphone GUI Automation](https://arxiv.org/abs/2402.11941)
     - Xinbei Ma and Zhuosheng Zhang and Hai Zhao
     - Key: Vision-Language Model, Phone
@@ -229,6 +234,12 @@ format:
     - [code](https://github.com/google-deepmind/android_env)
 
 ### Datasets
+
+- [MobileAgentBench: An Efficient and User-Friendly Benchmark for Mobile LLM Agents](https://arxiv.org/abs/2406.08184)
+    - Luyuan Wang and Yongyu Deng and Yiwei Zha and Guodong Mao and Qinmin Wang and Tianchen Min and Wei Chen and Shoufa Chen
+    - Key: Mobile, Benchmark
+    - 2024
+    - [code](https://github.com/MobileAgentBench/mobile-agent-bench)
 
 - [VillagerBench/VillagerAgent: A Graph-Based Multi-Agent Framework for Coordinating Complex Task Dependencies in Minecraft](https://arxiv.org/abs/2406.05720)
     - Yubo Dong and Xukun Zhu and Zhengzhe Pan and Linchao Zhu and Yi Yang
