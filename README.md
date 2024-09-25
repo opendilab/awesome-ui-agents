@@ -60,6 +60,11 @@ format:
 
 #### 2024
 
+- [Apple Intelligence Foundation Language Models](https://arxiv.org/pdf/2407.21075)
+    - Apple
+    - Key: Vision-Language Model, Private Cloud Compute
+    - 2024
+
 - [CoCo-Agent: A Comprehensive Cognitive MLLM Agent for Smartphone GUI Automation](https://arxiv.org/abs/2402.11941)
     - Xinbei Ma and Zhuosheng Zhang and Hai Zhao
     - Key: Vision-Language Model, Phone
@@ -229,6 +234,24 @@ format:
     - [code](https://github.com/google-deepmind/android_env)
 
 ### Datasets
+
+- [AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks](https://arxiv.org/abs/2407.15711)
+    - Ori Yoran and Samuel Joseph Amouyal and Chaitanya Malaviya and Ben Bogin and Ofir Press and Jonathan Berant
+    - Key: Web, Realistic, Time-Consuming,  Benchmark
+    - 2024
+    - [code](https://assistantbench.github.io)
+
+- [WebCanvas: Benchmarking Web Agents in Online Environments](https://arxiv.org/abs/2307.12856)
+    - Yichen Pan1 and Dehan Kong and Sida Zhou and Cheng Cui and Yifei Leng and Bing Jiang and Hangyu Liu and Yanyi Shang and Shuyan Zhou and  Tongshuang Wu and Zhengyang Wu
+    - Key: Web, Online Environments, Benchmark
+    - 2024
+    - [code](https://www.imean.ai/web-canvas)
+
+- [MobileAgentBench: An Efficient and User-Friendly Benchmark for Mobile LLM Agents](https://arxiv.org/abs/2406.08184)
+    - Luyuan Wang and Yongyu Deng and Yiwei Zha and Guodong Mao and Qinmin Wang and Tianchen Min and Wei Chen and Shoufa Chen
+    - Key: Mobile, Benchmark
+    - 2024
+    - [code](https://github.com/MobileAgentBench/mobile-agent-bench)
 
 - [VillagerBench/VillagerAgent: A Graph-Based Multi-Agent Framework for Coordinating Complex Task Dependencies in Minecraft](https://arxiv.org/abs/2406.05720)
     - Yubo Dong and Xukun Zhu and Zhengzhe Pan and Linchao Zhu and Yi Yang
