@@ -235,6 +235,18 @@ format:
 
 ### Datasets
 
+- [AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks](https://arxiv.org/abs/2407.15711)
+    - Ori Yoran and Samuel Joseph Amouyal and Chaitanya Malaviya and Ben Bogin and Ofir Press and Jonathan Berant
+    - Key: Web, Realistic, Time-Consuming,  Benchmark
+    - 2024
+    - [code](https://assistantbench.github.io)
+
+- [WebCanvas: Benchmarking Web Agents in Online Environments](https://arxiv.org/abs/2307.12856)
+    - Yichen Pan1 and Dehan Kong and Sida Zhou and Cheng Cui and Yifei Leng and Bing Jiang and Hangyu Liu and Yanyi Shang and Shuyan Zhou and  Tongshuang Wu and Zhengyang Wu
+    - Key: Web, Online Environments, Benchmark
+    - 2024
+    - [code](https://www.imean.ai/web-canvas)
+
 - [MobileAgentBench: An Efficient and User-Friendly Benchmark for Mobile LLM Agents](https://arxiv.org/abs/2406.08184)
     - Luyuan Wang and Yongyu Deng and Yiwei Zha and Guodong Mao and Qinmin Wang and Tianchen Min and Wei Chen and Shoufa Chen
     - Key: Mobile, Benchmark
