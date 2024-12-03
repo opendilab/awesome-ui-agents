@@ -59,6 +59,35 @@ format:
 ### Models
 
 #### 2024
+- [Autowebglm: Bootstrap and reinforce a large language model-based web navigating agent](https://arxiv.org/abs/2404.03648)
+    - Hanyu Lai and Xiao Liu and Iat Long Iong and Shuntian Yao and Yuxuan Chen and Pengbo Shen and Hao Yu and Hanchen Zhang and Xiaohan Zhang and Yuxiao Dong and Jie Tang
+    - Key: Large language models, real-world web navigation,bilingual benchmark 
+    - 2024
+  
+- [Dual-view visual contextualization for web navigation](https://arxiv.org/abs/2402.04476)
+    - Jihyung Kil and Chan Hee Song and Boyuan Zheng and Xiang Deng and Yu Su and Wei-Lun Chao
+    - Key: Automatic web navigation, language instructions, HTML elements
+    - 2024
+
+- [Agent-e: From autonomous web navigation to foundational design principles in agentic systems](https://arxiv.org/abs/2407.13032)
+    - Hanyu Lai and Xiao Liu and Iat Long Iong and Shuntian Yao and Yuxuan Chen and Pengbo Shen and Hao Yu and Hanchen Zhang and Xiaohan Zhang and Yuxiao Dong and Jie Tang
+    - Key: hierarchical architecture, flexible DOM distillation, denoising method
+    - 2024
+
+- [Tree search for language model agents](https://arxiv.org/abs/2407.01476)
+    - Jing Yu Koh and Stephen McAleer and Daniel Fried and Ruslan Salakhutdinov
+    - Key: multi-step reasoning, planning, best-first tree search 
+    - 2024
+
+- [GPT-4V(ision) is a Generalist Web Agent, if Grounded](https://arxiv.org/abs/2401.01614)
+    - Boyuan Zheng and Boyu Gou and Jihyung Kil and Huan Sun and YuSu
+    - Key: generalist web agent, online evaluation
+    - 2024
+
+- [Agent S: an open agentic framework that uses computers like a human](https://arxiv.org/abs/2410.08164)
+    - Saaket Agashe and Jiuzhou Han and Shuyu Gan and Jiachen Yang and Ang Li and Xin Eric Wang
+    - Key: Multimodal Large Language Models, Graphical User Interface, Agent-Computer Interface
+    - 2024
 
 - [Apple Intelligence Foundation Language Models](https://arxiv.org/pdf/2407.21075)
     - Apple
@@ -112,11 +141,6 @@ format:
     - 2024
     - [code](https://github.com/IMNearth/CoAT)
 
-- [AppAgent: Multimodal Agents as Smartphone Users](https://arxiv.org/abs/2312.13771)
-    - Chi Zhang and Zhao Yang and Jiaxuan Liu and Yucheng Han and Xin Chen and Zebiao Huang and Bin Fu and Gang Yu
-    - Key: Vision-Language Model, Android
-    - 2023
-    - [code](https://github.com/mnotgod96/AppAgent)
 
 - [Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration](https://arxiv.org/abs/2406.01014)
     - Junyang Wang and Haiyang Xu and Haitao Jia and Xi Zhang and Ming Yan and Weizhou Shen and Ji Zhang and Fei Huang and Jitao Sang
@@ -160,6 +184,21 @@ format:
     - [code](https://github.com/BAAI-Agents/Cradle)
 
 #### 2023
+- [Openagents: An open platform for language agents in the wild](https://arxiv.org/abs/2309.08172)
+    - Kaixin Ma and Hongming Zhang and Hongwei Wang and Xiaoman Pan and Wenhao Yu and Dong Yu
+    - wild of everyday life, Language agents, real-world evaluations
+    - 2023
+  
+- [LASER: LLM Agent with State-Space Exploration for Web Navigation](https://arxiv.org/abs/2309.08172)
+    - Kaixin Ma and Hongming Zhang and Hongwei Wang and Xiaoman Pan and Wenhao Yu and Dong Yu
+    - Large language models, web navigation, interactive task
+    - 2023
+
+- [AppAgent: Multimodal Agents as Smartphone Users](https://arxiv.org/abs/2312.13771)
+    - Chi Zhang and Zhao Yang and Jiaxuan Liu and Yucheng Han and Xin Chen and Zebiao Huang and Bin Fu and Gang Yu
+    - Key: Vision-Language Model, Android
+    - 2023
+    - [code](https://github.com/mnotgod96/AppAgent)
 
 - [CogAgent: A Visual Language Model for GUI Agents](https://arxiv.org/html/2312.08914v1)
     - Wenyi Hong and Weihan Wang and Qingsong Lv and Jiazheng Xu and Wenmeng Yu and Junhui Ji and Yan Wang and Zihan Wang and Yuxuan Zhang and Juanzi Li and Bin Xu and Yuxiao Dong and Ming Ding and Jie Tang
