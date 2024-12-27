@@ -59,6 +59,42 @@ format:
 ### Models
 
 #### 2024
+- [Lightweight Neural App Control](https://arxiv.org/abs/2410.17883)
+    - Filippos Christianos and Georgios Papoudakis and Thomas Coste and Jianye Hao and Jun Wang and Kun Shao
+    - KEY: app agents,  Android apps, Action Transformer
+    - 2024
+
+- [Cradle: Empowering Foundation Agents Towards General Computer Control](https://arxiv.org/abs/2403.03186)
+    - Weihao Tan and Wentao Zhang and Xinrun Xu and Haochong Xia and et al.
+    - Key:  various virtual scenarios, General Computer Control
+    - 2024
+
+
+- [SeeAct GPT-4V(ision) is a Generalist Web Agent, if Grounded](https://github.com/OSU-NLP-Group/SeeAct)
+    - Boyuan Zheng and Boyu Gou and Jihyung Kil and Huan Sun amd Yu Su
+    - Key: live websites, grounding still, mage captioning, visual question answering
+    - 2024
+
+- [MMAC-Copilot: Multi-modal Agent Collaboration Operating System Copilot](https://arxiv.org/abs/2404.18074)
+    - Zirui Song and Yaohang Li and Meng Fang and Zhenhao Chen and Zecheng Shi and Yuan Huang and Ling Chen
+    - Key: Autonomous virtual agents, Multi-Modal Agent Collaboration
+    - 2024
+
+- [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/abs/2401.10935)
+    - Kanzhi Cheng and Qiushi Sun and Yougang Chu and Fangzhi Xu and Yantao Li and Jianbing Zhang and Zhiyong Wu
+    - Key: Graphical User Interface, screenshots
+    - 2024
+
+- [OS-ATLAS: A Foundation Action Model for Generalist GUI Agents](https://arxiv.org/abs/2410.23218)
+    - Zhiyong Wu and Zhenyu Wu and Fangzhi Xu and Yian Wang and Qiushi Sun and Chengyou Jia and Kanzhi Cheng and Zichen Ding and Liheng Chen and Paul Pu Liang and Yu Qiao
+    - Key: Out-Of-Distribution, GUI grounding
+    - 2024
+
+- [Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation Model Internet Agents](https://arxiv.org/abs/2412.13194)
+    - Yifei Zhou and Qianlan Yang and Kaixiang Lin and Min Bai and Xiong Zhou and Yu-Xiong Wang and Sergey Levine and Erran Li
+    - Key: Large language models,  Internet-browsing agent, autonomous task proposal 
+    - 2024
+
 - [Autowebglm: Bootstrap and reinforce a large language model-based web navigating agent](https://arxiv.org/abs/2404.03648)
     - Hanyu Lai and Xiao Liu and Iat Long Iong and Shuntian Yao and Yuxuan Chen and Pengbo Shen and Hao Yu and Hanchen Zhang and Xiaohan Zhang and Yuxiao Dong and Jie Tang
     - Key: Large language models, real-world web navigation,bilingual benchmark 
@@ -177,11 +213,6 @@ format:
     - Key: Vision-Language Model, Android, IOS
     - 2024
 
-- [Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study](https://arxiv.org/html/2403.03186v1)
-    - Weihao Tan and Ziluo Ding and Wentao Zhang and Boyu Li and Bohan Zhou and Junpeng Yue and Haochong Xia and Jiechuan Jiang and Longtao Zheng and Xinrun Xu and Yifei Bi and Pengjie Gu and Xinrun Wang and Börje F. Karlsson and Bo An and Zongqing Lu
-    - Key: Vision-Language Model, PC, Game
-    - 2024
-    - [code](https://github.com/BAAI-Agents/Cradle)
 
 #### 2023
 - [Openagents: An open platform for language agents in the wild](https://arxiv.org/abs/2309.08172)
@@ -241,6 +272,11 @@ format:
     - [code](https://github.com/posgnu/rci-agent)
 
 ### Tools
+-[Make Websites Accessible for Agents](https://browser-use.com)
+    - Li Zhang and Shihe Wang and Xianqing Jia and Zhihan Zheng and Yunhe Yan and Longxi Gao and Yuanchun Li and Mengwei Xu
+    - Key: websites, Agents
+    - 2024
+    - [code](https://github.com/browser-use/browser-use)
 
 - [LEGENT: An Open Platform for Embodied Agentb Agents on Large Language Models](https://aclanthology.org/2024.acl-demos.8/)
     - Iat Long Iong and Xiao Liu and Yuxuan Chen and Hanyu Lai and Shuntian Yao and Pengbo Shen and Hao Yu and Yuxiao Dong and Jie Tang
@@ -273,7 +309,6 @@ format:
     - [code](https://github.com/google-deepmind/android_env)
 
 ### Datasets
-
 - [AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks](https://arxiv.org/abs/2407.15711)
     - Ori Yoran and Samuel Joseph Amouyal and Chaitanya Malaviya and Ben Bogin and Ofir Press and Jonathan Berant
     - Key: Web, Realistic, Time-Consuming,  Benchmark
