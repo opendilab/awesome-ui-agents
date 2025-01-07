@@ -64,16 +64,19 @@ format:
     - Wei Li, William Bishop, Alice Li, Chris Rawles, Folawiyo Campbell-Ajala, Divya Tyamagundlu, Oriana Riva  
     - Key: Autonomous agents, UI control, AndroidControl dataset, fine-tuning, in-domain vs out-of-domain performance  
     - 2024
+    - [code](https://github.com/google-research/google-research/tree/master/android_control)
 
 - [SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering](https://arxiv.org/abs/2405.15793)
     - John Yang, Carlos E. Jimenez, Alexander Wettig, Kilian Lieret, Shunyu Yao, Karthik Narasimhan, Ofir Press
     - Key: Language model agents, agent-computer interface (ACI), automated software engineering, SWE-bench, HumanEvalFix
     - 2024
+    - [code](https://github.com/SWE-agent/SWE-agent)
 
 - [Embodied Agent Interface: Benchmarking LLMs for Embodied Decision Making](https://arxiv.org/abs/2410.07166)
     - Manling Li, Shiyu Zhao, Qineng Wang, Kangrui Wang, Yu Zhou, Sanjana Srivastava, Cem Gokmen, Tony Lee, Li Erran Li, Ruohan Zhang, Weiyu Liu, Percy Liang, Li Fei-Fei, Jiayuan Mao, Jiajun Wu
     - Key: Large language models, embodied decision making, generalized interface, fine-grained metrics, subgoal decomposition, action sequencing
     - 2024
+    - [code](https://github.com/embodied-agent-eval/embodied-agent-eval)
 
 - [Autowebglm: Bootstrap and reinforce a large language model-based web navigating agent](https://arxiv.org/abs/2404.03648)
     - Hanyu Lai and Xiao Liu and Iat Long Iong and Shuntian Yao and Yuxuan Chen and Pengbo Shen and Hao Yu and Hanchen Zhang and Xiaohan Zhang and Yuxiao Dong and Jie Tang
