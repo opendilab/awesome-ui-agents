@@ -59,10 +59,51 @@ format:
 ### Models
 
 #### 2024
+- [Cradle: Empowering Foundation Agents Towards General Computer Control](https://arxiv.org/abs/2403.03186)
+    - Weihao Tan and Wentao Zhang and Xinrun Xu and Haochong Xia and et al.
+    - Key:  various virtual scenarios, General Computer Control
+    - 2024
+    - [code](https://github.com/BAAI-Agents/Cradle)
+
+- [Lightweight Neural App Control](https://arxiv.org/abs/2410.17883)
+    - Filippos Christianos and Georgios Papoudakis and Thomas Coste and Jianye Hao and Jun Wang and Kun Shao
+    - KEY: app agents,  Android apps, Action Transformer
+    - 2024
+    
+- [SeeAct GPT-4V(ision) is a Generalist Web Agent, if Grounded](https://github.com/OSU-NLP-Group/SeeAct)
+    - Boyuan Zheng and Boyu Gou and Jihyung Kil and Huan Sun amd Yu Su
+    - Key: live websites, grounding still, mage captioning, visual question answering
+    - 2024
+    - [code](https://osu-nlp-group.github.io/SeeAct)
+
+- [MMAC-Copilot: Multi-modal Agent Collaboration Operating System Copilot](https://arxiv.org/abs/2404.18074)
+    - Zirui Song and Yaohang Li and Meng Fang and Zhenhao Chen and Zecheng Shi and Yuan Huang and Ling Chen
+    - Key: Autonomous virtual agents, Multi-Modal Agent Collaboration
+    - 2024
+
+- [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/abs/2401.10935)
+    - Kanzhi Cheng and Qiushi Sun and Yougang Chu and Fangzhi Xu and Yantao Li and Jianbing Zhang and Zhiyong Wu
+    - Key: Graphical User Interface, screenshots
+    - 2024
+    -[code](https://github.com/njucckevin/SeeClick)
+
+- [OS-ATLAS: A Foundation Action Model for Generalist GUI Agents](https://arxiv.org/abs/2410.23218)
+    - Zhiyong Wu and Zhenyu Wu and Fangzhi Xu and Yian Wang and Qiushi Sun and Chengyou Jia and Kanzhi Cheng and Zichen Ding and Liheng Chen and Paul Pu Liang and Yu Qiao
+    - Key: Out-Of-Distribution, GUI grounding
+    - 2024
+    -[code](https://github.com/OS-Copilot/OS-Atlas)
+
+- [Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation Model Internet Agents](https://arxiv.org/abs/2412.13194)
+    - Yifei Zhou and Qianlan Yang and Kaixiang Lin and Min Bai and Xiong Zhou and Yu-Xiong Wang and Sergey Levine and Erran Li
+    - Key: Large language models,  Internet-browsing agent, autonomous task proposal 
+    - 2024
+    - [code](https://yanqval.github.io/PAE/)
+
 - [Autowebglm: Bootstrap and reinforce a large language model-based web navigating agent](https://arxiv.org/abs/2404.03648)
     - Hanyu Lai and Xiao Liu and Iat Long Iong and Shuntian Yao and Yuxuan Chen and Pengbo Shen and Hao Yu and Hanchen Zhang and Xiaohan Zhang and Yuxiao Dong and Jie Tang
     - Key: Large language models, real-world web navigation,bilingual benchmark 
     - 2024
+    - [code](https://github.com/THUDM/AutoWebGLM)
   
 - [Dual-view visual contextualization for web navigation](https://arxiv.org/abs/2402.04476)
     - Jihyung Kil and Chan Hee Song and Boyuan Zheng and Xiang Deng and Yu Su and Wei-Lun Chao
@@ -73,21 +114,19 @@ format:
     - Hanyu Lai and Xiao Liu and Iat Long Iong and Shuntian Yao and Yuxuan Chen and Pengbo Shen and Hao Yu and Hanchen Zhang and Xiaohan Zhang and Yuxiao Dong and Jie Tang
     - Key: hierarchical architecture, flexible DOM distillation, denoising method
     - 2024
+    - [code](https://github.com/EmergenceAI/Agent-E)
 
 - [Tree search for language model agents](https://arxiv.org/abs/2407.01476)
     - Jing Yu Koh and Stephen McAleer and Daniel Fried and Ruslan Salakhutdinov
     - Key: multi-step reasoning, planning, best-first tree search 
     - 2024
-
-- [GPT-4V(ision) is a Generalist Web Agent, if Grounded](https://arxiv.org/abs/2401.01614)
-    - Boyuan Zheng and Boyu Gou and Jihyung Kil and Huan Sun and YuSu
-    - Key: generalist web agent, online evaluation
-    - 2024
+    - [code](https://github.com/kohjingyu/search-agents)
 
 - [Agent S: an open agentic framework that uses computers like a human](https://arxiv.org/abs/2410.08164)
     - Saaket Agashe and Jiuzhou Han and Shuyu Gan and Jiachen Yang and Ang Li and Xin Eric Wang
     - Key: Multimodal Large Language Models, Graphical User Interface, Agent-Computer Interface
     - 2024
+    - [code](https://github.com/simular-ai/Agent-S)
 
 - [Apple Intelligence Foundation Language Models](https://arxiv.org/pdf/2407.21075)
     - Apple
@@ -128,6 +167,7 @@ format:
     - Gilles Baechler and Srinivas Sunkara and Maria Wang and Fedir Zubach and Hassan Mansoor and Vincent Etter and Victor Cărbune and Jason Lin and Jindong Chen and Abhanshu Sharma
     - Key: Vision-Language Model, Mobile, Infographics
     - 2024
+    -[code](https://github.com/kyegomez/ScreenAI)
 
 - [ScreenAgent: A Vision Language Model-driven Computer Control Agent](https://arxiv.org/abs/2402.07945)
     - Runliang Niu and Jindong Li and Shiqi Wang and Yali Fu and Xiyu Hu and Xueyuan Leng and He Kong and Yi Chang and Qi Wang
@@ -177,22 +217,19 @@ format:
     - Key: Vision-Language Model, Android, IOS
     - 2024
 
-- [Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study](https://arxiv.org/html/2403.03186v1)
-    - Weihao Tan and Ziluo Ding and Wentao Zhang and Boyu Li and Bohan Zhou and Junpeng Yue and Haochong Xia and Jiechuan Jiang and Longtao Zheng and Xinrun Xu and Yifei Bi and Pengjie Gu and Xinrun Wang and Börje F. Karlsson and Bo An and Zongqing Lu
-    - Key: Vision-Language Model, PC, Game
-    - 2024
-    - [code](https://github.com/BAAI-Agents/Cradle)
 
 #### 2023
 - [Openagents: An open platform for language agents in the wild](https://arxiv.org/abs/2309.08172)
     - Kaixin Ma and Hongming Zhang and Hongwei Wang and Xiaoman Pan and Wenhao Yu and Dong Yu
     - wild of everyday life, Language agents, real-world evaluations
     - 2023
+    -[code](https://github.com/xlang-ai/OpenAgents)
   
 - [LASER: LLM Agent with State-Space Exploration for Web Navigation](https://arxiv.org/abs/2309.08172)
     - Kaixin Ma and Hongming Zhang and Hongwei Wang and Xiaoman Pan and Wenhao Yu and Dong Yu
     - Large language models, web navigation, interactive task
     - 2023
+    -[code](https://github.com/Mayer123/LASER)
 
 - [AppAgent: Multimodal Agents as Smartphone Users](https://arxiv.org/abs/2312.13771)
     - Chi Zhang and Zhao Yang and Jiaxuan Liu and Yucheng Han and Xin Chen and Zebiao Huang and Bin Fu and Gang Yu
@@ -241,6 +278,11 @@ format:
     - [code](https://github.com/posgnu/rci-agent)
 
 ### Tools
+-[Make Websites Accessible for Agents](https://browser-use.com)
+    - Li Zhang and Shihe Wang and Xianqing Jia and Zhihan Zheng and Yunhe Yan and Longxi Gao and Yuanchun Li and Mengwei Xu
+    - Key: websites, Agents
+    - 2024
+    - [code](https://github.com/browser-use/browser-use)
 
 - [LEGENT: An Open Platform for Embodied Agentb Agents on Large Language Models](https://aclanthology.org/2024.acl-demos.8/)
     - Iat Long Iong and Xiao Liu and Yuxuan Chen and Hanyu Lai and Shuntian Yao and Pengbo Shen and Hao Yu and Yuxiao Dong and Jie Tang
@@ -273,7 +315,6 @@ format:
     - [code](https://github.com/google-deepmind/android_env)
 
 ### Datasets
-
 - [AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks](https://arxiv.org/abs/2407.15711)
     - Ori Yoran and Samuel Joseph Amouyal and Chaitanya Malaviya and Ben Bogin and Ofir Press and Jonathan Berant
     - Key: Web, Realistic, Time-Consuming,  Benchmark
@@ -326,6 +367,7 @@ format:
     - Christopher Rawles and Alice Li and Daniel Rodriguez and Oriana Riva and Timothy Lillicrap
     - Key: Android, datasets
     - 2023
+    - [code](https://github.com/google-research/google-research/blob/master/android_in_the_wild/README.md)
 
 - [Mind2Web: Towards a Generalist Agent for the Web](https://arxiv.org/abs/2306.06070)
     - Xiang Deng and Yu Gu and Boyuan Zheng and Shijie Chen and Samuel Stevens and Boshi Wang and Huan Sun and Yu Su
