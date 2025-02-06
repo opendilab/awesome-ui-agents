@@ -58,6 +58,28 @@ format:
 
 ### Models
 
+#### 2025
+
+- [Multi-modal Agent Tuning: Building a VLM-Driven Agent for Efficient Tool Usage](https://openreview.net/forum?id=0bmGL4q7vJ)  
+  - Zhi Gao, Bofei Zhang, Pengxiang Li, Xiaojian Ma, Tao Yuan, Yue Fan, Yuwei Wu, Yunde Jia, Song-Chun Zhu, Qing Li  
+  - Key: Multimodal Agents, Vision-language Model, Tool usage  
+  - ExpEnv: GTA, GAIA benchmarks
+
+- [Lightweight Neural App Control](https://openreview.net/forum?id=BL4WBIfyrz)  
+  - Filippos Christianos, Georgios Papoudakis, Thomas Coste, Jianye HAO, Jun Wang, Kun Shao  
+  - Key: vision-language model, multi-modal, android control, app agent  
+  - ExpEnv: two open-source mobile control datasets
+
+- [OS-ATLAS: Foundation Action Model for Generalist GUI Agents](https://openreview.net/forum?id=n9PDaFNi8t)  
+  - Zhiyong Wu, Zhenyu Wu, Fangzhi Xu, Yian Wang, Qiushi Sun, Chengyou Jia, Kanzhi Cheng, Zichen Ding, Liheng Chen, Paul Pu Liang, Yu Qiao  
+  - Key: GUI agent, language agent, GUI grounding, executable language grounding  
+  - ExpEnv: Mobile, Desktop, Web
+  
+- [Enhancing Software Agents with Monte Carlo Tree Search and Hindsight Feedback](https://openreview.net/forum?id=G7sIFXugTX)  
+  - Antonis Antoniades, Albert Örwall, Kexun Zhang, Yuxi Xie, Anirudh Goyal, William Yang Wang  
+  - Key: agents, LLM, SWE-agents, SWE-bench, search, planning, reasoning, self-improvement, open-ended  
+  - ExpEnv: SWE-bench
+
 #### 2024
 
 - [On the Effects of Data Scale on UI Control Agents](https://arxiv.org/abs/2406.03679)  
@@ -260,6 +282,12 @@ format:
     - [code](https://github.com/posgnu/rci-agent)
 
 ### Tools
+
+- [ToolGen: Unified Tool Retrieval and Calling via Generation](https://openreview.net/forum?id=XLMAMmowdY)  
+  - Renxi Wang, Xudong Han, Lei Ji, Shu Wang, Timothy Baldwin, Haonan Li  
+  - Key: Agent, Tool Learning, Virtual Token  
+  - 2024
+  - [code](https://github.com/Reason-Wang/ToolGen)
 
 - [LEGENT: An Open Platform for Embodied Agentb Agents on Large Language Models](https://aclanthology.org/2024.acl-demos.8/)
     - Iat Long Iong and Xiao Liu and Yuxuan Chen and Hanyu Lai and Shuntian Yao and Pengbo Shen and Hao Yu and Yuxiao Dong and Jie Tang
