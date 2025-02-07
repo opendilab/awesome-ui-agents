@@ -60,6 +60,21 @@ format:
 
 #### 2025
 
+- [OpenAI operator](https://openai.com/index/introducing-operator/)  
+  - OpenAI 
+  - Key: A research preview of an agent that can use its own browser to perform tasks for you.  
+  - ExpEnv: OSWorld, WebArena, WebVoyager
+
+- [OpenAI Computer-Using Agent](https://openai.com/index/computer-using-agent/)  
+  - OpenAI 
+  - Key: a universal interface for AI to interact with the digital world. 
+  - ExpEnv: OSWorld, WebArena, WebVoyager
+
+- [Claude computer use](https://www.anthropic.com/news/developing-computer-use)  
+  - anthropic 
+  - Key: emulating the way people interact with their own computer. 
+  - ExpEnv: OSWorld
+
 - [Multi-modal Agent Tuning: Building a VLM-Driven Agent for Efficient Tool Usage](https://openreview.net/forum?id=0bmGL4q7vJ)  
   - Zhi Gao, Bofei Zhang, Pengxiang Li, Xiaojian Ma, Tao Yuan, Yue Fan, Yuwei Wu, Yunde Jia, Song-Chun Zhu, Qing Li  
   - Key: Multimodal Agents, Vision-language Model, Tool usage  
@@ -69,11 +84,6 @@ format:
   - Filippos Christianos, Georgios Papoudakis, Thomas Coste, Jianye HAO, Jun Wang, Kun Shao  
   - Key: vision-language model, multi-modal, android control, app agent  
   - ExpEnv: two open-source mobile control datasets
-
-- [OS-ATLAS: Foundation Action Model for Generalist GUI Agents](https://openreview.net/forum?id=n9PDaFNi8t)  
-  - Zhiyong Wu, Zhenyu Wu, Fangzhi Xu, Yian Wang, Qiushi Sun, Chengyou Jia, Kanzhi Cheng, Zichen Ding, Liheng Chen, Paul Pu Liang, Yu Qiao  
-  - Key: GUI agent, language agent, GUI grounding, executable language grounding  
-  - ExpEnv: Mobile, Desktop, Web
   
 - [Enhancing Software Agents with Monte Carlo Tree Search and Hindsight Feedback](https://openreview.net/forum?id=G7sIFXugTX)  
   - Antonis Antoniades, Albert Örwall, Kexun Zhang, Yuxi Xie, Anirudh Goyal, William Yang Wang  
@@ -130,7 +140,7 @@ format:
 
 - [OS-ATLAS: A Foundation Action Model for Generalist GUI Agents](https://arxiv.org/abs/2410.23218)
     - Zhiyong Wu and Zhenyu Wu and Fangzhi Xu and Yian Wang and Qiushi Sun and Chengyou Jia and Kanzhi Cheng and Zichen Ding and Liheng Chen and Paul Pu Liang and Yu Qiao
-    - Key: Out-Of-Distribution, GUI grounding
+    - Key: Out-Of-Distribution, GUI grounding, language agent
     - 2024
     -[code](https://github.com/OS-Copilot/OS-Atlas)
 
@@ -142,7 +152,7 @@ format:
 
 - [Autowebglm: Bootstrap and reinforce a large language model-based web navigating agent](https://arxiv.org/abs/2404.03648)
     - Hanyu Lai and Xiao Liu and Iat Long Iong and Shuntian Yao and Yuxuan Chen and Pengbo Shen and Hao Yu and Hanchen Zhang and Xiaohan Zhang and Yuxiao Dong and Jie Tang
-    - Key: Large language models, real-world web navigation,bilingual benchmark 
+    - Key: Large language models, real-world web navigation, bilingual benchmark 
     - 2024
     - [code](https://github.com/THUDM/AutoWebGLM)
   
