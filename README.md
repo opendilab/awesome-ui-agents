@@ -23,6 +23,9 @@ Welcome to follow and star!
   - [Overview of UI Agent](#overview-of-ui-agent)
   - [Papers](#papers)
     - [Models](#models)
+      - [2025](#2025)
+      - [2024](#2024)
+      - [2023](#2023)
     - [Tools](#tools)
     - [Datasets](#datasets)
   - [Related Repositories](#related-repositories)
@@ -329,6 +332,12 @@ format:
     - [code](https://github.com/posgnu/rci-agent)
 
 ### Tools
+- [OmniParser: Screen Parsing tool for Pure Vision Based GUI Agent](https://arxiv.org/abs/2408.00203)  
+  - Yadong Lu and Jianwei Yang and Yelong Shen and Ahmed Awadallah
+  - Key: UI parsing, vision-based agent, GPT-4V, structured elements  
+  - 2025
+  - [code](https://github.com/microsoft/OmniParser)
+  
 -[Make Websites Accessible for Agents](https://browser-use.com)
     - Li Zhang and Shihe Wang and Xianqing Jia and Zhihan Zheng and Yunhe Yan and Longxi Gao and Yuanchun Li and Mengwei Xu
     - Key: websites, Agents
