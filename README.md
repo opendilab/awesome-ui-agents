@@ -63,6 +63,22 @@ format:
 
 #### 2025
 
+- [VSC-RL: Advancing Autonomous Vision-Language Agents with Variational Subgoal-Conditioned Reinforcement Learning](https://arxiv.org/abs/2502.07949)  
+  - Qingyuan Wu, Jianheng Liu, Jianye Hao, Jun Wang, Kun Shao  
+  - Key: framework, reinforcement learning, subgoal generation, VSC-RL, learning efficiency  
+  - ExpEnv: Android in the Wild
+
+- [AppVLM: A Lightweight Vision Language Model for Online App Control](https://arxiv.org/abs/2502.06395)  
+  - Georgios Papoudakis, Thomas Coste, Zhihao Wu, Jianye Hao, Jun Wang, Kun Shao  
+  - Key: vision-language model, multi-modal, AppVLM, on-device control
+  - ExpEnv: two open-source mobile control datasets
+
+- [DistRL: An Asynchronous Distributed Reinforcement Learning Framework for On-Device Control Agents](https://arxiv.org/abs/2410.14803)
+  - Taiyi Wang, Zhihao Wu, Jianheng Liu, Jianye Hao, Jun Wang, Kun Shao  
+  - Key: framework, reinforcement learning, distributed training, A-RIDE, on-device control  
+  - ExpEnv: Android in the Wild
+  - [code](https://ai-agents-2030.github.io/DistRL/)
+
 - [OpenAI operator](https://openai.com/index/introducing-operator/)  
   - OpenAI 
   - Key: A research preview of an agent that can use its own browser to perform tasks for you.  
@@ -381,6 +397,12 @@ format:
     - [code](https://github.com/google-deepmind/android_env)
 
 ### Datasets
+- [SPA-Bench: A Comprehensive Benchmark for SmartPhone Agent Evaluation](https://arxiv.org/abs/2410.15164)
+    - Jingxuan Chen, Derek Yuen, Bin Xie, Yuhao Yang, Gongwei Chen, Zhihao Wu, Li Yixing, Xurui Zhou, Weiwen Liu, Shuai Wang, Rui Shao, Liqiang Nie, Yasheng Wang, Jianye Hao, Jun Wang, Kun Shao
+    - Key: Two Languages, Interactive Environment, Plug-and-play Framework, 11 Agents, Diverse Metrics
+    - 2025
+    - [code](https://ai-agents-2030.github.io/SPA-Bench/)
+
 - [AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks](https://arxiv.org/abs/2407.15711)
     - Ori Yoran and Samuel Joseph Amouyal and Chaitanya Malaviya and Ben Bogin and Ofir Press and Jonathan Berant
     - Key: Web, Realistic, Time-Consuming,  Benchmark
