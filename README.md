@@ -348,6 +348,12 @@ format:
     - [code](https://github.com/posgnu/rci-agent)
 
 ### Tools
+- [Opera Browser Operator: AI-based Agentic Browsing](https://press.opera.com/2025/03/03/opera-browser-operator-ai-agentics/)  
+  - Opera Software
+  - Key: AI agent, agentic browsing, native client-side solution, privacy-focused  
+  - 2025
+  - [code](https://press.opera.com) 
+
 - [OmniParser: Screen Parsing tool for Pure Vision Based GUI Agent](https://arxiv.org/abs/2408.00203)  
   - Yadong Lu and Jianwei Yang and Yelong Shen and Ahmed Awadallah
   - Key: UI parsing, vision-based agent, GPT-4V, structured elements  
