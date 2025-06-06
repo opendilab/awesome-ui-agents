@@ -63,6 +63,11 @@ format:
 
 #### 2025
 
+- [AgentCPM-GUI: Building Mobile-Use Agents with Reinforcement Fine-Tuning](https://arxiv.org/abs/2506.01391)  
+  - Zhong Zhang, Yaxi Lu, Yikun Fu, Yupeng Huo, Shenzhi Yang, Yesai Wu, Han Si, Xin Cong, Haotian Chen, Yankai Lin, Jie Xie, Wei Zhou, Wang Xu, Yuanheng Zhang, Zhou Su, Zhongwu Zhai, Xiaoming Liu, Yudong Mei, Jianming Xu, Hongyan Tian, Chongyi Wang, Chi Chen, Yuan Yao, Zhiyuan Liu, Maosong Sun  
+  - Key: mobile agent, reinforcement fine-tuning, multi-modal, GUI control  
+  - ExpEnv: Android in the Zoo, AndroidControl, GUI-Odyssey, CAGUI
+
 - [VSC-RL: Advancing Autonomous Vision-Language Agents with Variational Subgoal-Conditioned Reinforcement Learning](https://arxiv.org/abs/2502.07949)  
   - Qingyuan Wu, Jianheng Liu, Jianye Hao, Jun Wang, Kun Shao  
   - Key: framework, reinforcement learning, subgoal generation, VSC-RL, learning efficiency  
