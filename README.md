@@ -63,6 +63,51 @@ format:
 
 #### 2025
 
+- [Programming with Pixels: Towards Generalist Software Engineering Agents](https://openreview.net/pdf?id=SMA13YzI4U#page=7.55)
+  - Pranjal Aggarwal, Sean Welleck
+  - Key: UI-agent, software engineering, visual perception, IDE interaction, Reinforcement Learning.
+  - ExpEnv: PwP (Programming with Pixels) environment, PwP-Bench-Lite (benchmark)
+
+- [E-commerce UI/UX Optimization via Generative AI, MDD, and Multi-Agent Reinforcement Learning](https://www.mdpi.com/1999-5903/17/4/180)
+  - Authors not provided in abstract
+  - Key: multi-agent reinforcement learning, UI/UX optimization, Generative AI, E-commerce.
+  - ExpEnv: E-commerce applications
+  
+- [CRAFT-GUI: Curriculum-Reinforced Agent For GUI Tasks](https://arxiv.org/abs/2508.11360)
+  - Songqin Nong, Jingxuan Xu, Sheng Zhou, Jianfeng Chen, Xiaoxuan Tang, Tao Jiang, Wenhao Xu
+  - Key: Reinforcement Learning, GUI agents, curriculum learning, policy optimization.
+  - ExpEnv: Android Control, internal online benchmarks
+  
+- [CODA: Coordinating the Cerebrum and Cerebellum for a Dual-Brain Computer Use Agent with Decoupled Reinforcement Learning](https://arxiv.org/pdf/2508.20096)
+  - Zeyi Sun, Yuhang Cao, Jianze Liang, Qiushi Sun, Ziyu Liu, Zhixiong Zhang, Yuhang Zang, Xiaoyi Dong, Kai Chen, Dahua Lin, Jiaqi Wang
+  - Key: decoupled Reinforcement Learning, GUI agents, compositional framework, long-horizon planning.
+  - ExpEnv: ScienceBoard, AgentRewardBench
+  
+- [Enhance Mobile Agents Thinking Process Via Iterative Preference Learning](https://arxiv.org/pdf/2505.12299)
+  - Kun Huang, Weikai Xu, Yuxuan Liu, Quandong Wang, Pengzhi Gao, Wei Liu, Jian Luan, Bin Wang, Bo An
+  - Key: mobile GUI agents, iterative preference learning, DPO, CoaT.
+  - ExpEnv: AITZ, AMEX, AndroidControl
+
+- [UI-Venus Technical Report: Building High-performance UI Agents with RFT](https://arxiv.org/pdf/2508.10833)
+  - Zhangxuan Gu, Zhengwen Zeng, Zhenyu Xu, Xingran Zhou, Shuheng Shen, Yunfei Liu, Beitong Zhou, Changhua Meng, Tianyu Xia, Weizhi Chen, Yue Wen, Jingya Dou, Fei Tang, Jinzhen Lin, Yulin Liu, Zhenlin Guo, Yichen Gong, Heng Jia, Changlong Gao, Yuan Guo, Yong Deng, Zhenyu Guo, Liang Chen, Weiqiang Wang
+  - Key: reinforcement finetuning (RFT), UI agents, multimodal large language models, UI navigation.
+  - ExpEnv: Screenspot-V2, Screenspot-Pro, AndroidWorld
+
+- [Advancing Language Multi-Agent Learning with Credit Re-Assignment for Interactive Environment Generalization](https://openreview.net/pdf?id=SoEmgM1ioC)
+  - Zhitao He, Zijun Liu, Peng Li, Yi R. Fung, Ming Yan, Ji Zhang, Fei Huang, Yang Liu
+  - Key: multi-agent RL, LLMs, UI agents, credit re-assignment, environment generalization.
+  - ExpEnv: AndroidWorld, MobileMiniWoB++, Mind2Web, AutoWebBench
+
+- [SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience](https://arxiv.org/pdf/2508.04700)
+  - Zeyi Sun, Ziyu Liu, Yuhang Zang, Yuhang Cao, Xiaoyi Dong, Tong Wu, Dahua Lin, Jiaqi Wang
+  - Key: self-evolving agents, computer use agents, reinforcement learning, reward modeling.
+  - ExpEnv: OS-World, AgentRewardBench.
+
+- [Proposer-Agent-Evaluator (PAE): Autonomous Skill Discovery for Foundation Model Internet Agents](https://openreview.net/pdf?id=uCkwqAG0uS)
+  - Yifei Zhou, Qianlan Yang, Kaixiang Lin, Min Bai, Xiong Zhou, Yu-Xiong Wang, Sergey Levine, Erran Li
+  - Key: autonomous skill discovery, foundation model agents, web navigation, Reinforcement Learning.
+  - ExpEnv: WebVoyager, WebArena
+  
 - [VSC-RL: Advancing Autonomous Vision-Language Agents with Variational Subgoal-Conditioned Reinforcement Learning](https://arxiv.org/abs/2502.07949)  
   - Qingyuan Wu, Jianheng Liu, Jianye Hao, Jun Wang, Kun Shao  
   - Key: framework, reinforcement learning, subgoal generation, VSC-RL, learning efficiency  
