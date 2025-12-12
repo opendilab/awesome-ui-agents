@@ -63,6 +63,21 @@ format:
 
 #### 2025
 
+- [CORE: Reducing UI Exposure in Mobile Agents via Collaboration Between Cloud and Local LLMs](https://openreview.net/forum?id=klOr9y9nMU)
+  - Gucongcong Fan, Chaoyue Niu, Chengfei Lv, Fan Wu, Guihai Chen
+  - Key: Mobile Agents, Large Language Models, UI Exposure Reduction, Cloud-local Collaboration
+  - ExpEnv: Mobile Agents
+
+- [UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents](https://openreview.net/forum?id=3uUmJzSSOW)
+  - Han Xiao, Guozhi Wang, Yuxiang Chai, Zimu Lu, Weifeng Lin, Hao He, Lue Fan, Liuyang Bian, Rui Hu, Liang Liu, Shuai Ren, Yafei Wen, Xiaoxin Chen, Aojun Zhou, Hongsheng Li
+  - Key: Multi-modal Large Language Models, GUI Agents, Self-Improving Framework, Mobile Agents
+  - ExpEnv: Mobile GUI environments / Mobile Agents
+
+- [BTL-UI: Blink-Think-Link Reasoning Model for GUI Agent](https://openreview.net/forum?id=B0Gfxhr8V5)
+  - Shaojie Zhang, Ruoceng Zhang, Pei Fu, Shaokang Wang, Jiahui Yang, Xin Du, ShiqiCui, Bin Qin, Ying Huang, Zhenbo Luo, Jian Luan
+  - Key: Large Vision-Language Models, GUI Agents, Reinforcement Fine-Tuning, Human-GUI Interaction, Cognitive-inspired Reasoning Framework
+  - ExpEnv: GUI environments / Mobile/Desktop GUI Agents
+
 - [Programming with Pixels: Towards Generalist Software Engineering Agents](https://openreview.net/pdf?id=SMA13YzI4U#page=7.55)
   - Pranjal Aggarwal, Sean Welleck
   - Key: UI-agent, software engineering, visual perception, IDE interaction, Reinforcement Learning.
