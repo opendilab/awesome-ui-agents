@@ -23,6 +23,7 @@ Welcome to follow and star!
   - [Overview of UI Agent](#overview-of-ui-agent)
   - [Papers](#papers)
     - [Models](#models)
+      - [2026](#2026)
       - [2025](#2025)
       - [2024](#2024)
       - [2023](#2023)
@@ -60,6 +61,18 @@ format:
 ```
 
 ### Models
+
+#### 2026
+
+- [Safe and Scalable Web Agent Learning via Recreated Websites](https://arxiv.org/abs/2603.10505)
+  - Hyungjoo Chae, Jungsoo Park, Alan Ritter
+  - Key: recreated websites, verifiable synthetic environments, safe web-agent learning, self-evolving training
+  - ExpEnv: web agent benchmarks on executable recreated websites with deterministic programmatic rewards
+
+- [Continual GUI Agents](https://arxiv.org/abs/2601.20732)
+  - Ziwei Liu, Borui Kang, Hangjie Yuan, Zixiang Zhao, Wei Li, Yifan Zhu, Tao Feng
+  - Key: continual GUI agents, reinforcement fine-tuning, anchoring rewards, domain and resolution shift
+  - ExpEnv: continual GUI-agent evaluations under shifting domains and resolutions
 
 #### 2025
 
