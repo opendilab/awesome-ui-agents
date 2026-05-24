@@ -439,6 +439,12 @@ format:
     - 2024
     - [code](https://github.com/browser-use/browser-use)
 
+- [Openwork: Open-source Browser Automation Agent](https://github.com/accomplish-ai/openwork)
+    - Accomplish AI
+    - Key: browser automation, computer-use agents, multi-LLM support, open-source
+    - 2025
+    - [code](https://github.com/accomplish-ai/openwork)
+
 - [ToolGen: Unified Tool Retrieval and Calling via Generation](https://openreview.net/forum?id=XLMAMmowdY)  
   - Renxi Wang, Xudong Han, Lei Ji, Shu Wang, Timothy Baldwin, Haonan Li  
   - Key: Agent, Tool Learning, Virtual Token  
