@@ -64,15 +64,30 @@ format:
 
 #### 2026
 
-- [Safe and Scalable Web Agent Learning via Recreated Websites](https://arxiv.org/abs/2603.10505)
-  - Hyungjoo Chae, Jungsoo Park, Alan Ritter
-  - Key: recreated websites, verifiable synthetic environments, safe web-agent learning, self-evolving training
-  - ExpEnv: web agent benchmarks on executable recreated websites with deterministic programmatic rewards
+- [UI-Ins: Enhancing GUI Grounding with Multi-Perspective Instruction as Reasoning](https://openreview.net/forum?id=dsQHm7YX9c)
+  - Liangyu Chen, Hanzhang Zhou, Chenglin Cai, Jianan Zhang, Panrong Tong, Xu Zhang, et al.
+  - Key: multi-perspective instruction reasoning, adaptive instruction selection, GUI grounding
+  - ExpEnv: ScreenSpot-Pro, UI-I2E-Bench, MMBench-GUI L2, AndroidWorld, OS-World
 
-- [Continual GUI Agents](https://arxiv.org/abs/2601.20732)
-  - Ziwei Liu, Borui Kang, Hangjie Yuan, Zixiang Zhao, Wei Li, Yifan Zhu, Tao Feng
-  - Key: continual GUI agents, reinforcement fine-tuning, anchoring rewards, domain and resolution shift
-  - ExpEnv: continual GUI-agent evaluations under shifting domains and resolutions
+- [ProRe: A Proactive Reward System for GUI Agents via Reasoner-Actor Collaboration](https://openreview.net/forum?id=xtysskccFc)
+  - Gaole Dai, Shiqi Jiang, Ting Cao, Yuqing Yang, Yuanchun Li, Rui Tan, Mo Li, Lili Qiu
+  - Key: proactive reward design, reasoner-actor collaboration, robust GUI-agent optimization
+  - ExpEnv: AndroidWorld, AndroidLab, MobileAgentBench, OSWorld, OSWorld-Chrome
+
+- [GUI-Shift: Enhancing VLM-Based GUI Agents through Self-supervised Reinforcement Learning](https://openreview.net/forum?id=NakMHPljT7)
+  - Longxi Gao, Li Zhang, Pengzhi Gao, Wei Liu, Jian Luan, Mengwei Xu
+  - Key: self-supervised reinforcement learning, K-step GUI transition, label-efficient GUI automation
+  - ExpEnv: AndroidControl, GUI Odyssey, AndroidWorld, ScreenSpot-v2, ScreenSpot-Pro
+
+- [Go-Browse: Training Web Agents with Structured Exploration](https://openreview.net/forum?id=IpzRWE52yw)
+  - Apurva Gandhi, Graham Neubig
+  - Key: structured exploration, graph-based website traversal, web-agent data construction
+  - ExpEnv: WebArena, VisualWebArena, Online-Mind2Web
+
+- [WALT: Web Agents that Learn Tools](https://openreview.net/forum?id=cgIDqcJcoI)
+  - Viraj Prabhu, Yutong Dai, Matthew Fernandez, Krithika Ramakrishnan, Jing Gu, Yanqi Luo, et al.
+  - Key: tool discovery from websites, tool-augmented web agents, long-horizon web interaction
+  - ExpEnv: VisualWebArena, WebArena, Online-Mind2Web
 
 #### 2025
 
