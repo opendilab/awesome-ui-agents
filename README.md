@@ -99,7 +99,6 @@ format:
   - Key: continual GUI agents, reinforcement fine-tuning, anchoring rewards, domain and resolution shift
   - ExpEnv: continual GUI-agent evaluations under shifting domains and resolutions
 
-
 #### 2025
 
 - [CORE: Reducing UI Exposure in Mobile Agents via Collaboration Between Cloud and Local LLMs](https://openreview.net/forum?id=klOr9y9nMU)
