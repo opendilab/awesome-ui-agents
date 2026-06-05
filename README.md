@@ -64,6 +64,11 @@ format:
 
 #### 2026
 
+- [PerceptUI: LLM Agents as Human-Aligned Synthetic Users for UI/UX Evaluation](https://arxiv.org/abs/2606.05697)
+  - Nicolas Bougie, Xiaotong Ye, Gian Maria Marconi, Narimasa Watanabe
+  - Key: persona-conditioned UI/UX evaluation, contrastive reflection fine-tuning, reflective prompt evolution
+  - ExpEnv: WiserUI-Bench, UIClip/BetterApp, WebDevJudge, LabintheWild, LabintheWild-UX, UICrit, UXCar
+
 - [UI-Ins: Enhancing GUI Grounding with Multi-Perspective Instruction as Reasoning](https://openreview.net/forum?id=dsQHm7YX9c)
   - Liangyu Chen, Hanzhang Zhou, Chenglin Cai, Jianan Zhang, Panrong Tong, Xu Zhang, et al.
   - Key: multi-perspective instruction reasoning, adaptive instruction selection, GUI grounding
