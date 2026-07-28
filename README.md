@@ -507,6 +507,11 @@ format:
 
 - [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring MCP for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Free: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 ### Datasets
+- [ClawBench: Can AI Agents Complete Everyday Online Tasks?](https://arxiv.org/abs/2604.08523)
+    - Key: Real-world web-agent evaluation, live websites, end-to-end task success, execution traces
+    - 2026
+    - [code](https://github.com/reacher-z/ClawBench) · [project](https://claw-bench.com/)
+
 - [SPA-Bench: A Comprehensive Benchmark for SmartPhone Agent Evaluation](https://arxiv.org/abs/2410.15164)
     - Jingxuan Chen, Derek Yuen, Bin Xie, Yuhao Yang, Gongwei Chen, Zhihao Wu, Li Yixing, Xurui Zhou, Weiwen Liu, Shuai Wang, Rui Shao, Liqiang Nie, Yasheng Wang, Jianye Hao, Jun Wang, Kun Shao
     - Key: Two Languages, Interactive Environment, Plug-and-play Framework, 11 Agents, Diverse Metrics
