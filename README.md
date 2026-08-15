@@ -451,6 +451,12 @@ format:
     - [code](https://github.com/posgnu/rci-agent)
 
 ### Tools
+- [agent-qa: Self-Improving QA Agent for Web and Mobile](https://github.com/vostride/agent-qa)
+  - Vostride
+  - Key: GUI Agent, Web Testing, Mobile Testing, Persistent Memory
+  - 2026
+  - [code](https://github.com/vostride/agent-qa)
+
 - [Opera Browser Operator: AI-based Agentic Browsing](https://press.opera.com/2025/03/03/opera-browser-operator-ai-agentics/)  
   - Opera Software
   - Key: AI agent, agentic browsing, native client-side solution, privacy-focused  
