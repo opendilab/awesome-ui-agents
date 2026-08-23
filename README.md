@@ -11,6 +11,7 @@
 [![Contributors](https://img.shields.io/github/contributors/opendilab/awesome-ui-agents)](https://github.com/opendilab/awesome-ui-agents/graphs/contributors)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
+- [Clickyy](https://github.com/jayamitkatariya/clickyyy) - Open-source macOS menu bar AI agent: shake cursor to summon an overlay that sees your screen and can click, type, and act.
 This is a collection of research papers for **UI Agent**, which includes models, tools, and datasets.
 And the repository will be continuously updated to track the frontier of UI Agent or related fields.
 
