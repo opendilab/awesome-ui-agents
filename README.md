@@ -451,6 +451,12 @@ format:
     - [code](https://github.com/posgnu/rci-agent)
 
 ### Tools
+- [Optics Framework: Self-healing Test Automation for Mobile, Web and Smart TV](https://github.com/mozarkai/optics-framework)  
+  - Mozark AI
+  - Key: Mobile UI, Web, test automation, self-healing locators, MCP server for agents  
+  - 2025
+  - [code](https://github.com/mozarkai/optics-framework)
+
 - [Opera Browser Operator: AI-based Agentic Browsing](https://press.opera.com/2025/03/03/opera-browser-operator-ai-agentics/)  
   - Opera Software
   - Key: AI agent, agentic browsing, native client-side solution, privacy-focused  
