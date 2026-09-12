@@ -451,6 +451,7 @@ format:
     - [code](https://github.com/posgnu/rci-agent)
 
 ### Tools
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril): Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops
 - [Opera Browser Operator: AI-based Agentic Browsing](https://press.opera.com/2025/03/03/opera-browser-operator-ai-agentics/)  
   - Opera Software
   - Key: AI agent, agentic browsing, native client-side solution, privacy-focused  
