@@ -451,6 +451,12 @@ format:
     - [code](https://github.com/posgnu/rci-agent)
 
 ### Tools
+- [Jet Browser: Portable WPE WebKit Runtime for AI Agents](https://github.com/masakaai/jet-browser)
+  - MASAKA
+  - Key: isolated browser runtime, native input, semantic DOM, screenshots, ordered JSONL
+  - 2026
+  - [code](https://github.com/masakaai/jet-browser)
+
 - [Opera Browser Operator: AI-based Agentic Browsing](https://press.opera.com/2025/03/03/opera-browser-operator-ai-agentics/)  
   - Opera Software
   - Key: AI agent, agentic browsing, native client-side solution, privacy-focused  
