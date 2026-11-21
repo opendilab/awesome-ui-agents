@@ -590,6 +590,7 @@ format:
 - [Awesome-LLM-based-Web-Agent-and-Tools](https://github.com/albzni/Awesome-LLM-based-Web-Agent-and-Tools)
 - [Awesome-GUI-Agent](https://github.com/showlab/Awesome-GUI-Agent)
 - [computer-control-agent-knowledge-base](https://github.com/James4Ever0/computer_control_agent_knowledge_base)
+- [awesome-agent-phone-use](https://github.com/pichnett/awesome-agent-phone-use)
 
 ## Contributing
 
