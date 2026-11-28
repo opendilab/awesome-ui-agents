@@ -506,6 +506,8 @@ format:
     - [code](https://github.com/google-deepmind/android_env)
 
 - [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring MCP for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Free: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+- **Sol Next**: Open-source (Apache-2.0) System-0 autonomous Android 10–16 agent (`v0.1.0-beta`) with companion research monograph — zero-context-bloat skill crystallization (`ΔC_prompt = 0`, `5–200 ms`, `0` tokens), two-stage Rust/Kotlin UI-tree compression (`-74%–97%` + `-55%–75%`), 2,706-line ARM64 SIMD assembly, 1:1 background VirtualDisplay (`0.0 px` drift), offline `390 ms` Matcha-TTS, and zero-dependency Rust stdio MCP server. [[GitHub & Paper]](https://github.com/chongyangzhang92-hub/Sol-Next) [[Homepage]](https://chongyangzhang92-hub.github.io/Sol-Next/)
+
 ### Datasets
 - [SPA-Bench: A Comprehensive Benchmark for SmartPhone Agent Evaluation](https://arxiv.org/abs/2410.15164)
     - Jingxuan Chen, Derek Yuen, Bin Xie, Yuhao Yang, Gongwei Chen, Zhihao Wu, Li Yixing, Xurui Zhou, Weiwen Liu, Shuai Wang, Rui Shao, Liqiang Nie, Yasheng Wang, Jianye Hao, Jun Wang, Kun Shao
